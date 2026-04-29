@@ -4,8 +4,10 @@
 网址：
 https://yplbbs.lol
 
-还有tg机器人和频道
+还有tg机器人
+
 https://t.me/yplbbs_bot
 
 tg频道
+
 https://t.me/yplbbs
